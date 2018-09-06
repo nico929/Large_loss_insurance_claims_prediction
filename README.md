@@ -2,7 +2,7 @@
 This is a summer research project with an insurance claim dataset
 # Datasets:
 - response variable: large loss or non-large loss
-- binary classification;
+- binary classification
 # Objective: 
 - Which an insurance claim due to the car accident will result in large loss for the insurance company before the accident actually happens?
 - What significant features have strong impact on the insurance loss?
