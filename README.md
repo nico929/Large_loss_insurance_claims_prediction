@@ -1,9 +1,9 @@
 # Large_loss_insurance_claims_prediction
 This is a summer research project with an insurance claim dataset
-# Datasets:
+# Dataset:
 - response variable: large loss or non-large loss
 - binary classification
-# Objective: 
+# Objectives: 
 - Which an insurance claim due to the car accident will result in large loss for the insurance company before the accident actually happens?
 - What significant features have strong impact on the insurance loss?
 - What types of insurance policies customers bought cause the large loss?
